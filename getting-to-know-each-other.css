@@ -1,11 +1,13 @@
 .main-header
     {font-size: 80px; text-align: center; margin-bottom: 0%;}
+.header 
+    {font-size: 32px; margin-bottom: 0%;}
+.paragraph
+    {max-width: 100ch; margin-top: 0%;}
 .sub-header
     {text-align: center; font-size: 20px; margin-top: 0%;}
 .square-list
     {list-style-type: square;}
-.paragraph
-    {max-width: 100ch;}
 .center
     {display: block;
     margin-left: auto;
