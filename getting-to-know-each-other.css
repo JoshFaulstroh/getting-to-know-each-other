@@ -1,7 +1,11 @@
 .main-header
-    {font-size: 80px; text-align: center; margin-bottom: 0%;}
+    {font-size: 80px; text-align: center; 
+    margin-bottom: 0%; margin-top: 0%; 
+    margin-left: 400px; margin-right: 400px;
+    border-style: outset; border-radius: 20px;
+    border-width: 7px;}
 .header 
-    {font-size: 32px; margin-bottom: 0%;}
+    {font-size: 32px; margin-bottom: 0%; color: #ff6347;}
 .paragraph
     {max-width: 100ch; margin-top: 0%;}
 .sub-header
@@ -12,5 +16,4 @@
     {display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%
-}
+    width: 50%}
